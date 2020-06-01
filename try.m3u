@@ -1,5 +1,281 @@
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/BeIN_Sport_1_HD.jpg" group-title="SPORTS", (ONLINE) (ID) beIN SPORTS 1
+http://157.119.56.249:2019/live/gratis/diemdiemaja/131.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sport_2_HD_logo.jpg" group-title="SPORTS", (ONLINE) (ID) beINSPORTS 2
+http://157.119.56.249:2019/live/gratis/diemdiemaja/130.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png" group-title="SPORTS", (ONLINE) (ID) beINSPORTS 3
+http://157.119.56.249:2019/live/gratis/diemdiemaja/129.ts
+
+#EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/05/fox-sports.jpg" group-title="SPORTS", (ONLINE) (ID) Fox sport1
+http://157.119.56.249:2019/live/gratis/diemdiemaja/116.ts
+
+#EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/05/fox-sports-21.jpg" group-title="SPORTS", (ONLINE) (ID) Fox sport2
+http://157.119.56.249:2019/live/gratis/diemdiemaja/115.ts
+
+#EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/05/fox-sport-3-sd.jpg" group-title="SPORTS", (ONLINE) (ID) Fox sport3
+http://157.119.56.249:2019/live/gratis/diemdiemaja/114.ts
+
+#EXTINF:-1 tvg-logo="https://allsport.site/uploads/posts/2017-05/1496076533_pic_ch120-1-.jpg" group-title="SPORTS", (ONLINE) SENTANA SPORT+
+http://ott-cdn.ucom.am/s82/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://allsport.site/uploads/posts/2017-05/1496076533_pic_ch120-1-.jpg" group-title="SPORTS", (ONLINE) SENTANA SPORT
+http://ott-cdn.ucom.am/s81/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="SPORTS", (ONLINE) ELEVEN SPORT
+http://cdn7.woideas.com/tv11.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/BeIN_Sport_1_HD.jpg" group-title="SPORTS", (ONLINE) (ID) beIN SPORTS 1
+http://157.119.56.249:2019/live/gratis/diemdiemaja/131.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sport_2_HD_logo.jpg" group-title="SPORTS", (ONLINE) (ID) beINSPORTS 2
+http://157.119.56.249:2019/live/gratis/diemdiemaja/130.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png" group-title="SPORTS", (ONLINE) (ID) beINSPORTS 3
+http://157.119.56.249:2019/live/gratis/diemdiemaja/129.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="SPORTS", (DOUBTFUL) STAR SPORTS SELECT 1 HD
+http://www.pandar.tv:25461/026329193917/isvcOtsIUKRLYdC/23927
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="SPORTS", (DOUBTFUL) STAR SPORTS SELECT 2 HD
+http://www.pandar.tv:25461/026329193917/isvcOtsIUKRLYdC/23926
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="SPORTS", (DOUBTFUL) STAR SPORTS 1 HD
+http://www.pandar.tv:25461/026329193917/isvcOtsIUKRLYdC/23931
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="SPORTS", (DOUBTFUL) STAR SPORTS 2 HD
+http://www.pandar.tv:25461/026329193917/isvcOtsIUKRLYdC/23929
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="SPORTS", (DOUBTFUL) STAR SPORTS 3
+http://www.pandar.tv:25461/026329193917/isvcOtsIUKRLYdC/23928
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="SPORTS", (DOUBTFUL) STAR SPORTS 1 HINDI HD
+http://www.pandar.tv:25461/026329193917/isvcOtsIUKRLYdC/23930
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="SPORTS", (DOUBTFUL) SONY ESPN HD
+http://www.pandar.tv:25461/026329193917/isvcOtsIUKRLYdC/23933
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="SPORTS", (DOUBTFUL) SONY SIX HD
+http://www.pandar.tv:25461/026329193917/isvcOtsIUKRLYdC/23932
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="SPORTS", (DOUBTFUL) SONY TEN 1 HD
+http://www.pandar.tv:25461/026329193917/isvcOtsIUKRLYdC/23924
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="SPORTS", (DOUBTFUL) SONY TEN 2 HD
+http://www.pandar.tv:25461/026329193917/isvcOtsIUKRLYdC/23923
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="SPORTS", (DOUBTFUL) SONY TEN 3 HD
+http://www.pandar.tv:25461/026329193917/isvcOtsIUKRLYdC/23922
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS", (ONLINE) CCTV 5+ HD
+http://cdn10.uhd4khdr.com/5jia.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS", (ONLINE) ELEVEN SPORT 1 HD TW
+http://cdn7.woideas.com/tv11.m3u8
+
+#EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="SPORTS", (ONLINE) ABU DHABI SPORT
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+
+#EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="SPORTS", (ONLINE) ABU DHABI SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+
+#EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="SPORTS", (ONLINE) Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+
+#EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="SPORTS", (ONLINE) Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+
+#EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="SPORTS", (ONLINE) Abu Dhabi Sports 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+
+#EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="SPORTS", (ONLINE) Abu Dhabi Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-oTEg4yPgQ1g/W3OF_kuTpzI/AAAAAAAABok/qp5M4xBGlKgU4tWQeDdpI8epjeEjgj-wwCLcBGAs/s1600/tvri.jpg" group-title="SPORTS", (DOUBTFUL) TVRI SOPRT
+http://rr2.dens.tv/s/s48/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="SPORTS", (ONLINE) MNC Sport
+https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Super_Soccer_TV.png/revision/latest?cb=20181111072911" group-title="SPORTS", (DOUBTFUL) SUPER SOCCER TV
+http://210.210.155.35/uq2663/h/h20/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (ONLINE) MU TV
+http://157.119.56.249:2019/live/gratis/diemdiemaja/118.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/BeIN_Sport_1_HD.jpg" group-title="SPORTS", (ONLINE) (ID) beIN SPORTS 1
+http://157.119.56.249:2019/live/gratis/diemdiemaja/131.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sport_2_HD_logo.jpg" group-title="SPORTS", (ONLINE) (ID) beINSPORTS 2
+http://157.119.56.249:2019/live/gratis/diemdiemaja/130.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png" group-title="SPORTS", (ONLINE) (ID) beINSPORTS 3
+http://157.119.56.249:2019/live/gratis/diemdiemaja/129.ts
+
+#EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/05/fox-sports.jpg" group-title="SPORTS", (ONLINE) (ID) Fox sport1
+http://157.119.56.249:2019/live/gratis/diemdiemaja/116.ts
+
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="https://i.imgur.com/S1DfLSr.png" tvg-country="AF" tvg-url="" group-title="Afghanistan",Arezo TV
-http://173.208.166.179/afg_ar_tv_789-456-dont_copy_my_links-mother-fucker-kona-werakawa/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" tvg-country="AF" tvg-url="" group-title="Afghanistan",Ariana News
-https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w796472816.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS?IPTV", (ONLINE) Tom & Jerry HD
+http://1290922571.rsc.cdn77.org/movies/Tom-and-Jerry-2005.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS?IPTV", (ONLINE) BIGBUCKBUNNY
+http://live.mdcgate.com:8080/hls/bigbuckbunny.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS?IPTV", (DOUBTFUL) ANIMAX
+http://45.126.83.51/dr9445/h/h18/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS?IPTV", (DOUBTFUL) SPACETOON
+http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS?IPTV", (ONLINE) AniPlus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS?IPTV", (ONLINE) MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS?IPTV", (DOUBTFUL) CARTOON NETWORK
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS?IPTV", (ONLINE) ANIPLUS HD
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS?IPTV", (ONLINE) GONGMAX TV
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS?IPTV", (ONLINE) KIDS JR
+http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS?IPTV", (ONLINE) DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS?IPTV", (DOUBTFUL) ANIPLUS
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE?FASHION", FASHION PARIS
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE?FASHION", FASHION TV MIDNITE
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE?FASHION", FASHION & LIFESTYLE
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE?FASHION", FASHION TOP MODEL
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE?FASHION", FASHION DESTINATION
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE?FASHION", FASHION RUNWAY
+http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE?FASHION", FASHION MIDNIGHT
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE?FASHION", JASMIN TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://i-h1.pinimg.com/564x/8e/56/cd/8e56cdba9e19abf173ff387ae15ecce0.jpg" group-title="DOCUMENTER", History
+http://indon.dnsq.us:9981/stream/channelid/855888891?ticket=A9C4D071873E66DF9A59C7F5C6B92C6F3592978A&profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="DOCUMENTER", ID
+http://80.80.160.168/live/5/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="DOCUMENTER", PLANET GREEN
+http://80.80.160.168/live/4/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="DOCUMENTER", TRAVEL
+http://80.80.160.168/live/3/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/06/TLC.jpg" group-title="DOCUMENTER", TLC
+http://80.80.160.168/live/2/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/06/Discovery-Channel.jpg" group-title="DOCUMENTER", INVESTIGATION DISCOVERY
+http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/06/Discovery-Channel.jpg" group-title="DOCUMENTER", DISCOVERY CH. HD
+http://indon.dnsq.us:9981/stream/channelid/1962401141?ticket=6FAC653315849ACAC605404031817CF1B8C303E8&profile=pass
+
+#EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/05/Discovery-Science-On-Demand.jpg" group-title="DOCUMENTER", DISCOVERY SCIENCE HD
+http://80.80.160.168/live/9/2500000/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/05/Discovery-Science-On-Demand.jpg" group-title="DOCUMENTER", SCI
+http://80.80.160.168/live/9/live.m3u8
+
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA?IPTV", (ONLINE) KBS 2
+http://199.21.149.42:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.M3U8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA?IPTV", (ONLINE) SONY ONE ID
+http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA?IPTV", (ONLINE) SONY CHANNEL ID
+http://45.126.83.51/session/aaa8be4e-f1af-11e8-9483-935a8f875426/uq2663/h/h142/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA?IPTV", (DOUBTFUL) ENTERTAINMENT ID
+http://45.126.83.51/uq2663/h/h10/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA?IPTV", (ONLINE) ARIRANG
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA?IPTV", (DOUBTFUL) SBS
+http://210.210.155.35/qwr9ew/s/s42/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA?IPTV", (ONLINE) EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA?IPTV", (ONLINE) EBS English
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA?IPTV", (ONLINE) EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA?IPTV", (ONLINE) EBS Plus 1
+http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA?IPTV", (ONLINE) SONY ONE ID
+http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA?IPTV", (ONLINE) SONY CHANNEL ID
+http://45.126.83.51/session/aaa8be4e-f1af-11e8-9483-935a8f875426/uq2663/h/h142/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA?IPTV", (DOUBTFUL) ENTERTAINMENT ID
+http://45.126.83.51/uq2663/h/h10/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA?IPTV", (ONLINE) ARIRANG
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA?IPTV", (DOUBTFUL) SBS
+http://210.210.155.35/qwr9ew/s/s42/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA?IPTV", (ONLINE) EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA?IPTV", (ONLINE) K-Drama
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA?IPTV", (ONLINE) CCM
+http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA?IPTV", (DOUBTFUL) CGTN DOCUMENTARY
+http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA?IPTV", (ONLINE) Korea TV
+http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
